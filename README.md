@@ -4,13 +4,13 @@ A new Flutter project.
 
 # A Simple Login Page android&ios
 
-#-AppBar
+-AppBar
 
-#-Image.asset
+-Image.asset
 
-#-TextField
+-TextField
 
-#-Text
+-Text
 
 
 
