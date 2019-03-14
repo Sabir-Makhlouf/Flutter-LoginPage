@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-# A Simple Login Page android&ios
+# A Simple Login Page for android&ios
 
 -AppBar
 
